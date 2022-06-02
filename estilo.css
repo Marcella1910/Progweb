@@ -1,0 +1,23 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-color:#E6E6FA;
+  font-family: Arial;
+}
+h1 {
+  font-family:Arial;
+  color: #DEB887;
+}
+fieldset {
+  width: 400px;
+}
+div,p {
+  font-size: 20px;
+}
+option {
+  font-size: 15px;
+}
+select {
+  background-color: #F5F5DC;
+  color: #4B0082
+}
